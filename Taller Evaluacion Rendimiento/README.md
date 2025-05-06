@@ -75,7 +75,7 @@ Para automatizar las pruebas:
 | Ubuntu VM (4)    | 4 hilos          | 11 GB  |
 | Ubuntu VM (8)    | 8 hilos          | 15 GB  |
 | Ubuntu VM (20)   | 20 hilos         | 64 GB  |
-| Replit           | Desconocido      | 64 GB  |
+| Replit           | 8 hilos          | 64 GB  |
 
 ---
 
