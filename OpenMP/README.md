@@ -22,23 +22,7 @@ El programa crea una región paralela y ejecuta un simple mensaje de saludo desd
 
 ---
 
-## 💻 Código principal
 
-```c
-#include <stdio.h>
-#include <omp.h>
-#include <stdlib.h>
-
-int main(int argc, char *argv[]){
-  printf("OpenMP ejecutando con %d hilos\n", omp_get_max_threads());
-  
-  #pragma omp parallel
-  {
-    printf("Hello World desde el thread %d\n", omp_get_thread_num());
-  }
-  return 0;
-}
-```
 
 ---
 
@@ -46,7 +30,7 @@ int main(int argc, char *argv[]){
 
 ---
 
-## 🧠 ¿Qué hace cada función?
+## ⚒️ Funciones principales
 
 | Función | Descripción |
 |--------|-------------|
