@@ -1,4 +1,4 @@
-# 🧵 Introducción a OpenMP: "Hello World" Multihilo
+# 🧵 Introducción a OpenMP
 
 ## 👤 Autor
 **Gabriel Jaramillo Cuberos**
