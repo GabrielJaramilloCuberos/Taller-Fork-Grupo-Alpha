@@ -19,6 +19,7 @@
 	La gestión adecuada de variables locales y la distribución de trabajo entre hilos son clave para evitar conflictos y asegurar resultados correctos.
 	La medición del tiempo de ejecución permite evaluar el rendimiento de la implementación paralela.
 	OpenMP es una herramienta poderosa para optimizar el rendimiento de aplicaciones que requieren cálculos intensivos, como la multiplicación de matrices.
+	El programa, efectivamente, realiza la multiplicación de matrices de manera eficiente y escalable, aprovechando la capacidad de procesamiento paralelo de los sistemas modernos.
 ***************************************************************************************************************************************************************/
 
 #include "mmInterfazOpenMP.h" // Incluye la interfaz de OpenMP para la multiplicación de matrices
